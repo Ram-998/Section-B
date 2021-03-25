@@ -1,29 +1,28 @@
-Johnny Coder
+Ram pamarthi
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+email                    ramayyappapamarthi8639@gmail.com
+profession                        student
+MyCountry                           India
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2018-2022 (expected)
+:   **Btech, information technology**; Rvr&Jc college of engineering(guntur)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
+2016-2018
+:   **intermediate, MPC**; sri sri junior college(vissanapeta)
     HomeTown (HomeTown)
 
     *Minor: Awesomeology*
 
-Experience
-----------
+
 
 **Your Most Recent Work Experience:**
 
@@ -42,7 +41,11 @@ Also with a short description.
 
 Technical Experience
 --------------------
-
+**smartknower** For WEB DEVELOPMENT
+programming languages
+ : **first-lang:** C
+ 
+  **second-language:** python
 My Cool Side Project
 :   For items which don't have a clear time ordering, a definition
     list can be used to have named items.
