@@ -18,5 +18,5 @@
   * sea fish
   
   
-  ![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dnaindia.com%2Fbollywood%2Freport-virat-kohli-anushka-sharma-introduce-daughter-vamika-with-adorable-photo-2872152&psig=AOvVaw0ewb-N-540-oms7nOGWJuu&ust=1616733411110000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNC4_57Pyu8CFQAAAAAdAAAAABAc)
+  ![Alt Text](https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/02/01/954259-viratkohli-anushkasharma-vamika.jpg)
   
