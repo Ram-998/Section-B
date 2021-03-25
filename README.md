@@ -27,3 +27,7 @@ ABOUT RAM PAMARTHI
 > I AM THE BEST
 > DREAMS DONT WORK UNLESS YOU DO.
 
+
+Ram emoji's!
+:+1: 😄: 😆: 😢:
+
